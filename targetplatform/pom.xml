@@ -83,7 +83,7 @@
         <node.version>10.11.0</node.version>
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.14.1</okhttp3.version>
-        <okio.version>1.15.0</okio.version>
+        <okio.version>1.17.6</okio.version>
         <ollie.version>0.0.37</ollie.version>
         <parc.version>0.1.2</parc.version>
         <picocli.version>4.2.0</picocli.version>
