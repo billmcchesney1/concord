@@ -58,7 +58,7 @@
         <javers.version>3.11.1</javers.version>
         <jaxb.version>2.3.0.1</jaxb.version>
         <jetty.version>9.4.26.v20200117</jetty.version>
-        <jgit.version>5.2.0.201812061821-r</jgit.version> <!-- updating requires some changes in how the auth is set up in ITs -->
+        <jgit.version>5.13.3.202401111512-r</jgit.version> <!-- updating requires some changes in how the auth is set up in ITs -->
         <jooq.version>3.14.0</jooq.version>
         <jsch.version>0.1.55</jsch.version>
         <json.smart.version>2.3</json.smart.version>
