@@ -79,7 +79,7 @@
         <metrics.version>4.1.3</metrics.version>
         <mockito.version>3.2.4</mockito.version>
         <mustache.version>0.9.6</mustache.version>
-        <nimbus.jwt.version>8.8</nimbus.jwt.version>
+        <nimbus.jwt.version>9.37.2</nimbus.jwt.version>
         <node.version>10.11.0</node.version>
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.14.1</okhttp3.version>
